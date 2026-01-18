@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general/accueil/"}
+{"dg-publish":true,"permalink":"/general/accueil/","tags":["gardenEntry"]}
 ---
 
 > **Bienvenue sur le Wiki Officiel d'Astral RP.**
